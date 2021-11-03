@@ -1,5 +1,7 @@
 # Linear Regression on Video Game Sales
 
+Here I have implemented linear regression to predict the video game sales in a given year, depending on the the data of the previous years.
+
 ## What is Linear Regression?
 
 Linear regression is perhaps one of the most well known and well understood algorithms in statistics and machine learning.
